@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Hamburger",
+    "time": "Time: 15-20minutes | Serves: 1",
+    "priceNew": "$12.50",
+    "priceOriginal": "$15.80",
+    "image": "./images/hamburger.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pizza",
+    "time": "Time: 20-25minutes | Serves: 4",
+    "priceNew": "$25.50",
+    "priceOriginal": "$30.80",
+    "image": "./images/pizza.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Fries",
+    "time": "Time: 5-10minutes | Serves: 1",
+    "priceNew": "$5.20",
+    "priceOriginal": "$7.50",
+    "image": "./images/fries.jpg"
+  }
+]
